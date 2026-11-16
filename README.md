@@ -32,5 +32,4 @@ Implementoval som algoritmus z článku Ebrahimpour et al. (2012) v Pythone cez 
 Čiary pozdĺž stien a stropu sa detegujú správne a smerujú k vanishing pointu. Výsledný bod je však na mojich obrázkoch posunutý, pretože textúra podlahy, okná a zábradlie vytvárajú veľa ďalších čiar a K-means na koncových bodoch ich nevie odlíšiť od hrán chodby. 
 
 ## Použitie AI
-Použil som Claude na ladenie a vysvetlenie chýb, ladenie parametrov a vysvetlenie argumentov funkcií, zhodnotenie výsledkov a zapísanie README.
-
+Použil som Claude na ladenie a vysvetlenie chýb, ladenie parametrov, pomoc pri zhodnotení výsledkov a zapísanie README.
