@@ -15,13 +15,13 @@ Implementoval som algoritmus z článku Ebrahimpour et al. (2012) v Pythone cez 
 
 ## Výsledky
 
-### Chodba 2 (najlepší výsledok: bod je blízko, ale posunutý nadol)
-![Čiastkové výsledky](results/results_parts2.png)
-![Finálny výsledok](results/results_final2.png)
-
 ### Chodba 1 
 ![Čiastkové výsledky](results/results_parts1.png)
 ![Finálny výsledok](results/results_final1.png)
+
+### Chodba 2
+![Čiastkové výsledky](results/results_parts2.png)
+![Finálny výsledok](results/results_final2.png)
 
 ### Chodba 3
 ![Čiastkové výsledky](results/results_parts3.png)
